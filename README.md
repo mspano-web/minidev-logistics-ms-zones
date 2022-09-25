@@ -2,10 +2,10 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-# MiniDev-Logistic:  api-gateway
+# MiniDev-Logistic:  ms-zones
 
 La presente iniciativa contiene el codigo de un mini desarrollo de software BackEnd.
-En particular, este proyecto contiene el modulo denominado api-gateway.
+En particular, este proyecto contiene el modulo denominado ms-zones.
 Es totalmente gratuito y compartido como un aporte a la comunidad. 
 Se focalizará en el procesamiento distribuido, mediante la aplicación del enfoque de microservicios. 
 Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web MS](https://www.youtube.com/playlist?list=PLWnRJL1SdIio8TshcHJrJ6_3btfZDuz4O).
@@ -13,7 +13,7 @@ Se apoya en videos que seran publicados en el canal de youtube:  [Developer Web 
 ___
 
 This initiative contains the code of a mini BackEnd software development.
-In particular, this project contains the module called api-gateway.
+In particular, this project contains the module called ms-zones.
 It is completely free and shared as a contribution to the community. It will focus on distributed processing, by applying the microservices approach. 
 It is supported by videos that will be published on the YouTube channel: [Developer Web MS](https://www.youtube.com/playlist?list=PLWnRJL1SdIio8TshcHJrJ6_3btfZDuz4O).
 
@@ -54,7 +54,17 @@ ___
 
 ## Otros microservicios del proyecto / Other project microservices
 
-
+* [api-gateway](https://github.com/mspano-web/minidev-logistics-api-gateway)
+* [ms-company-dependencies](https://github.com/mspano-web/minidev-logistics-ms-company-dependencies)
+* [ms-customers](https://github.com/mspano-web/minidev-logistics-ms-customers)
+* [ms-location](https://github.com/mspano-web/minidev-logistics-ms-location)
+* [ms-orders](https://github.com/mspano-web/minidev-logistics-ms-orders)
+* [ms-params](https://github.com/mspano-web/minidev-logistics-ms-params)
+* [ms-products](https://github.com/mspano-web/minidev-logistics-ms-products)
+* [ms-route](https://github.com/mspano-web/minidev-logistics-ms-route)
+* [ms-security](https://github.com/mspano-web/minidev-logistics-ms-security)
+* [ms-transports](https://github.com/mspano-web/minidev-logistics-ms-transports)
+* [ms-zones](https://github.com/mspano-web/minidev-logistics-ms-zones)
 
 ___
 
